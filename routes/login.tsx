@@ -8,7 +8,7 @@ export default function Login() {
     <div>
       <Navbar />
       <div
-        class={tw`p-4 mx-auto max-w-screen-md bg-red-100 mt-10 rounded-md pb-10`}
+        class={tw`mx-4 p-4 mx-auto max-w-screen-md bg-red-100 mt-10 rounded-md pb-10`}
       >
         <p class={tw`my-6 text-2xl text-center text-gray-600`}>Login</p>
         <p class={tw`my-6 text-md text-center text-gray-600`}>
